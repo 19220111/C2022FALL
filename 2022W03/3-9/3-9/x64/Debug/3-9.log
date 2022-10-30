@@ -1,0 +1,31 @@
+﻿  3-9.c
+D:\2022W03\3-9\3-9\3-9.c(1,6): error C2143: 语法错误: 缺少“{”(在“:”的前面)
+D:\2022W03\3-9\3-9\3-9.c(1,6): error C2059: 语法错误:“:”
+C:\Users\30983\Downloads\vs\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,61): error C2146: 语法错误: 缺少“)”(在标识符“_StackCookie”的前面)
+C:\Users\30983\Downloads\vs\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,61): error C2061: 语法错误: 标识符“_StackCookie”
+C:\Users\30983\Downloads\vs\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,61): error C2059: 语法错误:“;”
+C:\Users\30983\Downloads\vs\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(386,73): error C2059: 语法错误:“)”
+C:\Users\30983\Downloads\vs\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,77): error C2146: 语法错误: 缺少“)”(在标识符“_StackCookie”的前面)
+C:\Users\30983\Downloads\vs\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,77): error C2061: 语法错误: 标识符“_StackCookie”
+C:\Users\30983\Downloads\vs\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,77): error C2059: 语法错误:“;”
+C:\Users\30983\Downloads\vs\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(387,89): error C2059: 语法错误:“)”
+C:\Users\30983\Downloads\vs\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(391,18): error C2061: 语法错误: 标识符“__security_cookie”
+C:\Users\30983\Downloads\vs\VC\Tools\MSVC\14.33.31629\include\vcruntime.h(391,18): error C2059: 语法错误:“;”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(354,10): error C2081: “uintptr_t”: 形参表中的名称非法
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2146: 语法错误: 缺少“)”(在标识符“_Reserved”的前面)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2081: “uintptr_t”: 形参表中的名称非法
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2061: 语法错误: 标识符“_Reserved”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,26): error C2059: 语法错误:“;”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt.h(366,35): error C2059: 语法错误:“)”
+D:\2022W03\3-9\3-9\3-9.c(11,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(12,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(13,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(14,41): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(15,50): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(16,58): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(26,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(27,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(28,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(29,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(30,52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\2022W03\3-9\3-9\3-9.c(31,63): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
